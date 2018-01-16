@@ -10,3 +10,5 @@ Triple Click = Good Luck macro
 You can change the hotkey in the macro.INI file (open it with Notepad)
 
 You can also add/delete the texts in the macro.INI file
+
+By default, the hotkey is Numpad9
