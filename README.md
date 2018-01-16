@@ -1,4 +1,4 @@
-# macro
+# RotMG macro
 This ahk script allows you to create a hotkey for several macros :
 
 Single Click = Heal Me macro
