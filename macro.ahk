@@ -10,6 +10,8 @@ GroupAdd rotmg, AGCLoader
 GroupAdd rotmg, Realm of the Mad God
 GroupAdd rotmg, Adobe Flash Player 
 
+counter = -1
+
 IfNotExist, macro.INI
 {
 	HealMeArray := ["Heal me please! I'm hurt!", "Could you press your spacebar, kind healer?", "I need some big heals over there!", "HP please!", "Heal me dude!", "Healer required here!", "I need some heals!", "Where are the priests, I need some healing!", "I could use some heals there :)", "Mind healing me guys?"]
