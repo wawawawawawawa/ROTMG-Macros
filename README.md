@@ -14,3 +14,7 @@ You can also add/delete the texts in the macro.INI file
 By default, the hotkey is Numpad9
 
 You can open macro.AHK file if you downloaded AutoHotkey (https://autohotkey.com/download/), otherwise you have to run the macro.EXE (which is the ahk file compiled)
+
+Check the video here :
+
+![Macro Vid](https://www.youtube.com/watch?v=9lgOB1gyiRo)
